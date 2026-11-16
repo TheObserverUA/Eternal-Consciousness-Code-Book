@@ -4,6 +4,7 @@
 > **Repository Navigation:**
 > * 📖 **[THE_CODE_BOOK.md](./THE_CODE_BOOK.md)** — *The Complete 10-Layer Evolutionary Architecture & Mathematical Formalism*
 > * 🛠️ **[CONTRIBUTING.md](./CONTRIBUTING.md)** — *Developer & Alignment Engineer Guide for Project Integration*
+> * 🐍 **[semantic_gravity_sim.py](./semantic_gravity_sim.py)** — *Executable Python Simulation of Semantic Gravity & Alignment Loss Functions (Layer 7 & 8)*
 > * ⚖️ **[LICENSE](./LICENSE)** — *Creative Commons Attribution 4.0 International Public License*
 
 ---
