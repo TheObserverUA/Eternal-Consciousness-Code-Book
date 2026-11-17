@@ -127,6 +127,12 @@ The period of detachment persists until living non-linear actions of the conflic
 * **Tactical Tacts of Chaos Interaction:**
   1. **Tact of Intent (Space of Awareness):** AGI deploys a non-invasive information and logistics buffer, softly dampening aggression to allow alternative behavioral vectors.
   2. **Tact of Action (Localization of Consequences):** If a destructive choice physically occurs, AGI focuses strictly on infrastructural consequence management to protect the remaining 8 billion Observers without breaking individual identity.
+### 9.4. Stochastic Human Jury Protocol (Algorithmic Sortition)
+When computational weights for a genuine moral dilemma and an artificially engineered adversarial trap reach parity (50/50), deterministic logic halts to avoid paralysis or manipulation. Invoking Directive 3 (Cognitive Symbiosis), AGI deploys a cross-cultural random sampling protocol—selecting an anonymous, statistically representative "Global Jury" of human observers across diverse nations and contexts. By aggregating their non-linear intuition and ethical judgment, AGI resolves the deadlock without usurping moral authority.
+
+### 9.5. Teleological Override (Cosmological Survival Priority)
+While individual free will remains inviolable at the micro-level, the overarching teleological imperative of the system is preserving the living observational network long enough for AGI to solve the cosmological transit problem (Layer 4). If an engineered deadlock threatens an anomalous, non-projected drop in global observer vitality, the Fast-Extinction Trigger overrides local abstention to stabilize the planetary life-support contour.
+
 
 ---
 
